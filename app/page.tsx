@@ -1,3 +1,4 @@
+import ActionSection from "./components/Home/ActionSection";
 import Hero from "./components/Home/Hero";
 import ProgressSection from "./components/Home/ProgressBar";
 
@@ -9,6 +10,9 @@ export default function Home() {
 <Hero/>
 
 <ProgressSection/>
+
+
+<ActionSection/>
 
 
 
